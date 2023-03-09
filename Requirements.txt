@@ -1,0 +1,4 @@
+pandas
+Logistic Regression
+joblib
+scikit-learn
